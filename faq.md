@@ -51,9 +51,11 @@ On a calculé ça en se disant qu’on allait marcher 4 à 6 fois 20 minutes dan
 
 ### Je m'inscris où ?
 
-[Les inscriptions, c'est par ici] : (https://www.eventbrite.fr/e/billets-formation-lean-startup-itinerante-pour-mettre-en-marche-ou-tester-son-projet-29638759327)
+En éditant cette page sur Github : [v34-inscriptions.md](https://github.com/walkingdev/trampolean/blob/master/inscriptions.md) - et en précisant dans quelle ville tu souhaiterais qu'elle se déroule
 
-ou en éditant cette page sur Github : [v34-inscriptions.md](https://github.com/walkingdev/inscriptions.md) - et en précisant dans quelle ville tu souhaiterais qu'elle se déroule.
+ou
+
+en t'inscrivant sur [eventbrite](https://www.eventbrite.fr/e/billets-formation-lean-startup-itinerante-pour-mettre-en-marche-ou-tester-son-projet-29638759327).
 
 Tu peux aussi nous envoyer un petit mail : [stephane@scopyleft.fr](mailto:stephane@scopyleft.fr)
 
